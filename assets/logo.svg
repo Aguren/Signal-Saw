@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="320" viewBox="0 0 1150 320">
+<g transform="translate(12 20) scale(0.43)">
+      <path d="M64 188 L256 48 L448 188" fill="none" stroke="#1F2937" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter"/>
+      <path d="M96 164 L96 390 M416 164 L416 390" fill="none" stroke="#1F2937" stroke-width="30" stroke-linecap="square"/>
+      <path d="M164 212 Q256 134 348 212" fill="none" stroke="#4F6B7A" stroke-width="28" stroke-linecap="round"/>
+      <path d="M198 252 Q256 204 314 252" fill="none" stroke="#4F6B7A" stroke-width="28" stroke-linecap="round"/>
+      <circle cx="256" cy="292" r="18" fill="#4F6B7A"/>
+      <path d="M155 316 L174 334 L190 323 L206 344 L222 331 L238 352 L254 338 L270 353 L286 331 L302 345 L318 323 L334 335 L353 316
+               C350 385 309 430 256 430 C203 430 162 385 155 316 Z" fill="#8B5E3C"/>
+      <path d="M184 318 C190 370 218 399 256 399 C294 399 322 370 328 318" fill="none" stroke="#F6F1E7" stroke-width="10" opacity="0.45"/>
+    </g><text x="225" y="155" font-family="Montserrat, 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2">
+      <tspan fill="#1F2937">Signal </tspan><tspan fill="#4F6B7A">&amp;</tspan><tspan fill="#8B5E3C"> Saw</tspan>
+    </text><text x="230" y="220" text-anchor="start" font-family="Montserrat, 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="5" fill="#1F2937">HOME TECH + CUSTOM SOLUTIONS</text><text x="230" y="275" text-anchor="start" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="22" fill="#1F2937">Technology that works. Custom solutions that fit your home.</text>
+</svg>
