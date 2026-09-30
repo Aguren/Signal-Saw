@@ -53,3 +53,15 @@ Delete the entire `<section class="section pricing-section" ...>` block from `in
 
 ## Future upgrades
 When you have real project photos, add a portfolio / before-and-after section. Real work photos will make the biggest visual improvement to the next version of the site.
+
+
+## v2 content updates
+- Personalized owner story (Aguren)
+- Changed brand voice from “we” to owner-operated “I” where appropriate
+- Expanded service-area language for Covina, West Covina, Glendora, San Dimas, Azusa and nearby SGV
+- Changed $25 custom-solution price card to “Get a quote”
+- Added direct-email fallback beneath the contact form
+- Added local business hours/service areas to structured data
+- Added `project-gallery-snippet.html` and `/assets/projects/` so genuine project photos can be added without redesigning the site
+
+The project gallery is intentionally not visible until real project photos are available.
